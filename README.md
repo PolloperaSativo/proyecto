@@ -1,4 +1,5 @@
 # PROYECTO
+![stoneinc](img/stoneinc.jpg)
 ## Indice
 1. Introducción(Sandra)
 2. Origen(Adrián)
